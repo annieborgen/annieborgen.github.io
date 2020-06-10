@@ -21,8 +21,9 @@ The CIT minor consists of six classes:
      </li>
      <li>Project 4</li>
      <li>Project 3</li>
-     <li>Project 2</li>
-       <a href="https://annieborgen.github.io/project-2/">
+     <li>
+       <a href="https://annieborgen.github.io/project-2/">Project 2</a>
+     </li>
      <li>
        <a href="https://annieborgen.github.io/project-1/">Project 1</a>
      </li>
