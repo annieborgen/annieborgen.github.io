@@ -14,7 +14,7 @@ The CIT minor consists of six classes:
   <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.</li>
   <li><b>CIT 281 Web App Dev I</b>. Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
   <blockquote>
-   <b>281 Project Repos On Github:</b>
+   <b>CIT 281 Project Repos On Github:</b>
   <ul>
      <li>
        <a href="https://uo-cit.github.io/project-5-annieborgen/">Project 5</a>
