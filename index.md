@@ -1,6 +1,6 @@
 
 <h2>CIT Code Portfolio for Anne Borgen</h2>
-The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
+The University of Oregon's Computer Science Department offers a Computer Information Technology minor in which I am currently pursuing..
 
 The CIT minor prepares students to use and apply technologies in workplace environments that require development and management of databases, computer networks, web applications, and software systems.
 
@@ -36,12 +36,12 @@ The CIT minor consists of six classes:
   </li>
 </ol>
 
-5. <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
+<b>5. CIS 111 Web Programming</b>. ES6, jQuery.
 <blockquote>
   <a href="https://pages.uoregon.edu/aborgen/111/"> 111 Projects (uoregon.edu)</a>
 </blockquote>
 
-6. <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
+<b>6. CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
 <blockquote>
   <a href="https://pages.uoregon.edu/aborgen/110/"> 110 Projects (uoregon.edu)</a>
 </blockquote>
